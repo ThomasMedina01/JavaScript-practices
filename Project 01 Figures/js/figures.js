@@ -1,0 +1,1 @@
+console.log("Geometric figure calculator");
